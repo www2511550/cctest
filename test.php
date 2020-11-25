@@ -7,3 +7,5 @@
  * @version 2.0 test.php
  */
 phpinfo();
+
+echo 'aaaaaa';
