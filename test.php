@@ -6,6 +6,5 @@
  * @copyright Copyright (C) 2015 AddCn.SZ
  * @version 2.0 test.php
  */
-phpinfo();
 
-echo 'aaaaaacccqqq1111222 mm_113220731_435000403_108461900415';
+echo 'aaaaaacccqqq';
